@@ -43,9 +43,10 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<div>
-  <img src="https://skillicons.dev/icons?i=javascript,python,c,java,cpp,php" />
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,vite" />
+<div >
+  <img  src="https://skillicons.dev/icons?i=javascript,python,c,java,cpp,php" />
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img  src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,vite" />
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
