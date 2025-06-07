@@ -44,9 +44,9 @@
 
 
 <div >
-  <img  src="https://skillicons.dev/icons?i=javascript,python,c,java,cpp,php" />
+  <img  src="https://skillicons.dev/icons?i=javascript,python,c,cpp,php" />
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img  src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,vite" />
+<img  src="https://skillicons.dev/icons?i=html,css,tailwind,mongodb,express,react,nodejs,next,vite" />
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
