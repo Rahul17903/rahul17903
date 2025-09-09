@@ -6,9 +6,9 @@
 <h1 align="center">Hi 👋, I'm Rahul Ghosh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [Music-player-UI ](https://github.com/rahul17903/)
+- 🔭 I’m currently working on [College Managemant System](https://github.com/rahul17903/)
 
-- 🌱 I’m currently learning **javascript and php**
+- 🌱 I’m currently learning **NextJs**
 
 - 👯 I’m looking to collaborate on **Github Actions**
 
@@ -19,7 +19,6 @@
 
 - 📫 How to reach me **rahulghosh17903@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -30,7 +29,7 @@
   <a href="mailto:rahulghosh17903@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/" target="_blank">
+  <a href="https://www.linkedin.com/in/rahul-ghosh-b377b228a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://rahulghosh.vercel.app" target="_blank">
@@ -44,7 +43,7 @@
 
 
 <div >
-  <img  src="https://skillicons.dev/icons?i=javascript,python,c,cpp,java" />
+  <img  src="https://skillicons.dev/icons?i=javascript,python,c,java" />
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <img  src="https://skillicons.dev/icons?i=html,css,tailwind,mongodb,express,react,nodejs,next,vite" />
 </div>
